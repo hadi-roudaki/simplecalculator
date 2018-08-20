@@ -1,0 +1,11 @@
+C:\Users\hadir\source\repos\NimbleInterview\NimbleInterview\bin\Debug\netcoreapp2.0\NimbleInterview.deps.json
+C:\Users\hadir\source\repos\NimbleInterview\NimbleInterview\bin\Debug\netcoreapp2.0\NimbleInterview.runtimeconfig.json
+C:\Users\hadir\source\repos\NimbleInterview\NimbleInterview\bin\Debug\netcoreapp2.0\NimbleInterview.runtimeconfig.dev.json
+C:\Users\hadir\source\repos\NimbleInterview\NimbleInterview\bin\Debug\netcoreapp2.0\NimbleInterview.dll
+C:\Users\hadir\source\repos\NimbleInterview\NimbleInterview\bin\Debug\netcoreapp2.0\NimbleInterview.pdb
+C:\Users\hadir\source\repos\NimbleInterview\NimbleInterview\obj\Debug\netcoreapp2.0\NimbleInterview.csprojAssemblyReference.cache
+C:\Users\hadir\source\repos\NimbleInterview\NimbleInterview\obj\Debug\netcoreapp2.0\NimbleInterview.csproj.CoreCompileInputs.cache
+C:\Users\hadir\source\repos\NimbleInterview\NimbleInterview\obj\Debug\netcoreapp2.0\NimbleInterview.AssemblyInfoInputs.cache
+C:\Users\hadir\source\repos\NimbleInterview\NimbleInterview\obj\Debug\netcoreapp2.0\NimbleInterview.AssemblyInfo.cs
+C:\Users\hadir\source\repos\NimbleInterview\NimbleInterview\obj\Debug\netcoreapp2.0\NimbleInterview.dll
+C:\Users\hadir\source\repos\NimbleInterview\NimbleInterview\obj\Debug\netcoreapp2.0\NimbleInterview.pdb
